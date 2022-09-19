@@ -2,11 +2,10 @@ public class Main {
     public static void main(String[] args) {
 
         int pay = 5000;
-        int bonus = 5000 / 20;
-        int allMoney = pay + bonus;
+        int bonus = pay / 20;
 
         System.out.println(bonus + " miles");
-       
+
         // Объявляете переменные для входных данных и
         // параметров программы: одну для хранения
         // стоимости билета, другую для хранения количества
