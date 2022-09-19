@@ -5,9 +5,8 @@ public class Main {
         int bonus = 5000 / 20;
         int allMoney = pay + bonus;
 
-        System.out.println(bonus);
-        System.out.println(allMoney);
-
+        System.out.println(bonus + " miles");
+       
         // Объявляете переменные для входных данных и
         // параметров программы: одну для хранения
         // стоимости билета, другую для хранения количества
